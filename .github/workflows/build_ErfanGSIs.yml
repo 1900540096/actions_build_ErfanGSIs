@@ -14,8 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus6T/MP/OnePlus6THydrogen_34_OTA_045_all_2007172007_66c88c1e043f41b4.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://download.meizu.com/Firmware/Flyme/note9/8.20.8.12/cn_daily/20200812003720/5d107283/update.zip
+
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
